@@ -1,26 +1,26 @@
-# print("ola mundo")
-# print(7 + 4)
-# print("7 + 4")
-# print("7" + "4") #concatenação de strigs
-#
-# '''
-# comentario
-# de varias
-# linhas
-# '''
-#
-# #variaveis
-# nome = "rodrigo"
-# idade = 18 #int
-# peso = 81.6 #float
-# print(nome, idade, peso)
-# print(f"ooiiii, {nome}!")
-#
-# #input -- simula formulario no cmd
-# nome = input("digite seu nome:")
-# idade = int(input("digite sua idade:"))
-# peso = float(input("digite seu peso:"))
-# print(nome, idade, peso)
+print("ola mundo")
+print(7 + 4)
+print("7 + 4")
+print("7" + "4") #concatenação de strigs
+
+'''
+comentario
+de varias
+linhas
+'''
+
+#variaveis
+nome = "rodrigo"
+idade = 18 #int
+peso = 81.6 #float
+print(nome, idade, peso)
+print(f"ooiiii, {nome}!")
+
+#input -- simula formulario no cmd
+nome = input("digite seu nome:")
+idade = int(input("digite sua idade:"))
+peso = float(input("digite seu peso:"))
+print(nome, idade, peso)
 
 #desafio 1
 nome = input("digite seu nome:")
