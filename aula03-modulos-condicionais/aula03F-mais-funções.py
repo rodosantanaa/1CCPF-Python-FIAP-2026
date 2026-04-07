@@ -12,3 +12,6 @@ def soma(num_A, num_B):
     soma = num_A + num_B
     return soma
 print(soma(4, 3))
+# ou:
+# resultado = soma(4, 3)
+# print(resultado)
